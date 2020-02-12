@@ -1,3 +1,4 @@
+# เปลี่ยน MID
  nano gi3/เปลี่ยนMID
  nano gi4/เปลี่ยนMID
  nano gi5/เปลี่ยนMID
