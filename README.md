@@ -1,7 +1,7 @@
 # apt update
 # apt upgrade 
 # apt install python -y
-# apt install git 
+# apt install git -y
 # pip3 install pytz 
 # pip3 install rsa 
 # pip3 install requests 
