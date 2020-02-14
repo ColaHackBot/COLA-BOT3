@@ -32,7 +32,7 @@ class Config(object):
     APP_TYPE    = 'DESKTOPWIN'
     APP_VER     = '5.9.0'
     CARRIER     = '51089, 1-0'  
-    SYSTEM_NAME = 'COLA'
+    SYSTEM_NAME = 'ColaBotPrevent'
     SYSTEM_VER  = '5.9.0600-XP-x64'
     IP_ADDR     = '8.8.8.8'
     EMAIL_REGEX = re.compile(r"[^@]+@[^@]+\.[^@]+")
