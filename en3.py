@@ -34,10 +34,10 @@ gyeMID = gye.profile.mid
 aisMID = ais.profile.mid
 ki2MID = ki2.profile.mid
 #-------------------------------------------------------------------------------
-Bots = ["u78d3b315b4268d7b3654f8486e07e5e0","u7b4abcec38a39e8ab52b0c939eb79fa9","u3bc28db881a917b7e8add49a47e6df72"]
-creator = ["u78d3b315b4268d7b3654f8486e07e5e0"]
-Owner = ["u78d3b315b4268d7b3654f8486e07e5e0"]
-admin = ["u78d3b315b4268d7b3654f8486e07e5e0"]
+Bots = ["u104e95aaefb53cf411f77353f6a96ece","u104e95aaefb53cf411f77353f6a96ece","u104e95aaefb53cf411f77353f6a96ece"]
+creator = ["u104e95aaefb53cf411f77353f6a96ece"]
+Owner = ["u104e95aaefb53cf411f77353f6a96ece"]
+admin = ["u104e95aaefb53cf411f77353f6a96ece"]
 #-------------------------------------------------------------------------------
 gyeProfile = gye.getProfile()
 aisProfile = ais.getProfile()
