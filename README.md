@@ -1,3 +1,4 @@
+# apt update
 # apt upgrade 
 # apt install python -y
 # apt install git 
